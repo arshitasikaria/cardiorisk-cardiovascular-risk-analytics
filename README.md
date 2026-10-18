@@ -5,11 +5,9 @@ An interactive Power BI portfolio project exploring how heart-disease rates vary
 > **Important:** This is an analytics/portfolio project using a research-calibrated dataset. It is not a medical or diagnostic tool, and the associations shown should not be interpreted as proof of causation or as clinical guidance.
 
 ## Dashboard preview
-![CardioRisk Executive Overview](screenshots/Screenshot%202026-10-18%20185754.png)
-
+![CardioRisk Executive Overview](Screenshot%202026-10-18%20185754.png)
 ## Video walkthrough
-
-[Watch the CardioRisk dashboard demo](demo/CardioRisk_Dashboard_Demo.mp4) — a 62-second walkthrough of the interactive report pages.
+[Watch the CardioRisk dashboard demo](CardioRisk_Dashboard_Demo.mp4)— a 62-second walkthrough of the interactive report pages.
 
 The demo video is compressed for convenient repository sharing. The original Power BI report remains available as `CardioRisk_Dashboard.pbix`.
 
