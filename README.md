@@ -5,8 +5,7 @@ An interactive Power BI portfolio project exploring how heart-disease rates vary
 > **Important:** This is an analytics/portfolio project using a research-calibrated dataset. It is not a medical or diagnostic tool, and the associations shown should not be interpreted as proof of causation or as clinical guidance.
 
 ## Dashboard preview
-
-[CardioRisk Executive Overview](Screenshot 2026-10-18 185754.png)
+![CardioRisk Executive Overview](screenshots/Screenshot%202026-10-18%20185754.png)
 
 ## Video walkthrough
 
