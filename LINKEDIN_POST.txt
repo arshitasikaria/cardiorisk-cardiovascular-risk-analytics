@@ -1,0 +1,25 @@
+📊 Project completed: Cardiovascular Risk Analytics Dashboard | Power BI
+
+I’m excited to share my CardioRisk dashboard, a Power BI project built to explore heart-disease patterns across clinical risk factors, medical history, demographics, and lifestyle categories.
+
+🔎 What I built:
+• A five-page interactive report: Executive Overview, Clinical Risk, History & Symptoms, Demographics, and Lifestyle
+• KPI cards for total records, heart-disease cases/rate, average cholesterol, resting blood pressure, and age
+• DAX measures and calculated categories
+• Interactive Age Group, Region, and Sex slicers, plus a Reset Filters button
+• Comparisons of heart-disease rates across risk-factor categories
+
+📈 A few findings in this dataset:
+• Overall heart-disease rate: 46.08%
+• Hypertension group: 63.98% vs 30.22% for the no-hypertension group
+• Stage 2 High blood-pressure category: 59.23% vs 24.43% for the Normal category
+
+Tools: Power BI Desktop | Power Query | DAX | Data Visualization
+
+This is a portfolio analytics project using a research-calibrated dataset, not real patient records or a clinical diagnostic tool. The percentages describe this dataset and should not be interpreted as causal or medical conclusions.
+
+GitHub repository: [PASTE YOUR GITHUB REPOSITORY LINK HERE]
+
+I welcome feedback and suggestions for improving the dashboard and its analysis.
+
+#PowerBI #DataAnalytics #BusinessIntelligence #DAX #DataVisualization #HealthcareAnalytics #PortfolioProject

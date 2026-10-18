@@ -1,0 +1,10 @@
+# Windows / editor files
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+
+# Temporary exports and backup files
+*.tmp
+*.bak
+~$*

@@ -1,0 +1,22 @@
+GITHUB UPLOAD CHECKLIST
+
+Repository name:
+cardiorisk-cardiovascular-risk-analytics
+
+Short description:
+Power BI dashboard exploring heart-disease patterns across clinical risk factors, demographics, history, and lifestyle in a research-calibrated dataset.
+
+Suggested repository topics:
+power-bi, data-analytics, dax, business-intelligence, healthcare-analytics, data-visualization
+
+Recommended visibility:
+Public, if you are comfortable making the PBIX and included model/data available to anyone. Otherwise choose Private.
+
+This folder includes:
+- CardioRisk_Dashboard.pbix
+- README.md
+- screenshots/executive-overview.png
+- LINKEDIN_POST.txt
+- .gitignore
+
+The Power BI file is about 1.4 MB, so it is small enough for a standard repository upload.
